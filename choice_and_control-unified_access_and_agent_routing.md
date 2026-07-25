@@ -15,3 +15,9 @@ Choice and control: Unified access and Agent routing with Gemini Enterprise Agen
 <img width="1378" height="650" alt="image" src="https://github.com/user-attachments/assets/72b72dfa-b35f-418b-bdd4-34f5d5945132" />
 
 <img width="1377" height="556" alt="image" src="https://github.com/user-attachments/assets/43ce0232-a823-4fef-a2fd-e959f4c853cb" />
+
+<img width="1342" height="721" alt="image" src="https://github.com/user-attachments/assets/a1ede323-44a4-4a1c-b5cd-aa8e33f793aa" />
+
+<img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/996e2695-92b9-419c-a2e2-24780b3169dc" />
+
+<img width="1396" height="785" alt="image" src="https://github.com/user-attachments/assets/99bcb03a-dafc-4b9c-910c-9c2a5ff22ae0" />
