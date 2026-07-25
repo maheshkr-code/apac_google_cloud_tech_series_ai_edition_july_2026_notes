@@ -1,1 +1,51 @@
 # apac_google_cloud_tech_series_ai_edition_july_2026_notes
+
+Build production-ready agents on Google Cloud
+20 Minutes - Pavithra Sainath
+src: https://cloudonair.withgoogle.com/events/cts-agentic-ai-jul-26/watch?talk=t3-d1-eng
+
+<img width="792" height="460" alt="image" src="https://github.com/user-attachments/assets/a6462916-3374-4b12-8949-ac00ead4dec1" />
+
+<img width="804" height="390" alt="image" src="https://github.com/user-attachments/assets/3e61ac70-959d-4d41-8439-cd5ed66b90c2" />
+
+<img width="792" height="403" alt="image" src="https://github.com/user-attachments/assets/86fc00ae-f058-4921-ab1f-627b90ada1ad" />
+
+<img width="767" height="413" alt="image" src="https://github.com/user-attachments/assets/ca31e52f-f632-424c-90f9-d8c62835e4c7" />
+
+<img width="758" height="371" alt="image" src="https://github.com/user-attachments/assets/648a54e0-04e1-4599-9240-07fa298b0674" />
+
+<img width="752" height="378" alt="image" src="https://github.com/user-attachments/assets/f9bdf5bf-d132-458b-bf48-6532f3393999" />
+
+<img width="683" height="362" alt="image" src="https://github.com/user-attachments/assets/c159a6fe-0ebf-4811-9dbd-70b6307d55f3" />
+
+<img width="781" height="402" alt="image" src="https://github.com/user-attachments/assets/27b2554a-e1d5-436a-880f-c47e8a9e927d" />
+
+<img width="813" height="446" alt="image" src="https://github.com/user-attachments/assets/463f85fa-46e4-4418-908c-5bea1ef204de" />
+
+<img width="771" height="401" alt="image" src="https://github.com/user-attachments/assets/e1596662-a321-4ff4-af3f-0e055bc501ca" />
+
+<img width="787" height="402" alt="image" src="https://github.com/user-attachments/assets/f06f4649-1635-4bf6-84fd-e80ca6c2a7d1" />
+
+<img width="802" height="428" alt="image" src="https://github.com/user-attachments/assets/ecc47ca0-4b86-4a50-b556-e149361efc2f" />
+
+<img width="798" height="437" alt="image" src="https://github.com/user-attachments/assets/8063ed7b-a272-4055-b188-24b2ac12e470" />
+
+<img width="828" height="525" alt="image" src="https://github.com/user-attachments/assets/ff26afb9-4758-4f10-a3ac-ae1f840f0c3c" />
+
+<img width="750" height="417" alt="image" src="https://github.com/user-attachments/assets/ceb8cdba-f79b-49b9-ba33-c736ffc9eed6" />
+
+<img width="792" height="443" alt="image" src="https://github.com/user-attachments/assets/c0157f0f-6aab-4ffd-89b6-bcb74b89e5d6" />
+<img width="767" height="471" alt="image" src="https://github.com/user-attachments/assets/598c6f83-140e-40b5-b5ee-2af8c2e37eec" />
+<img width="742" height="392" alt="image" src="https://github.com/user-attachments/assets/9340a2da-ac2f-4efa-9d2e-e844376a2bdd" />
+<img width="755" height="348" alt="image" src="https://github.com/user-attachments/assets/2c843d36-911c-4d72-9adc-dc123a1e8785" />
+<img width="773" height="393" alt="image" src="https://github.com/user-attachments/assets/637b04f5-f5af-4966-bd4a-3c18c444f60d" />
+<img width="671" height="380" alt="image" src="https://github.com/user-attachments/assets/c0c4f1da-6bab-479b-a8d5-d2061c69d1ad" />
+<img width="796" height="428" alt="image" src="https://github.com/user-attachments/assets/96cc7439-860e-49e8-8795-c05e09032ae3" />
+<img width="782" height="392" alt="image" src="https://github.com/user-attachments/assets/ea9d87a3-6ac2-40c1-b4b6-d96a95ba4d29" />
+<img width="752" height="392" alt="image" src="https://github.com/user-attachments/assets/870d27b1-cb10-4cb5-99e5-0d9082b6b271" />
+<img width="611" height="428" alt="image" src="https://github.com/user-attachments/assets/c017c9ed-5827-417f-ac31-bd1697ae2b62" />
+<img width="1360" height="747" alt="image" src="https://github.com/user-attachments/assets/711662ac-4d95-4261-8431-296f686cb7a2" />
+
+<img width="1212" height="678" alt="image" src="https://github.com/user-attachments/assets/a04ddb8f-879d-4101-9cb2-7aec368021a5" />
+<img width="1365" height="612" alt="image" src="https://github.com/user-attachments/assets/91cf2e26-577e-4742-8dd3-32bc68e91c6f" />
+
