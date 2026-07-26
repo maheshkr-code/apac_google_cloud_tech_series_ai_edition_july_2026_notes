@@ -8,3 +8,4 @@
 3. The Agentic Data Cloud: Powering a system of action- https://cloudonair.withgoogle.com/events/cts-agentic-ai-jul-26/watch?talk=t5-d1-eng
 
 4. From prototype to production: Hard-won lessons for advanced, reliable, and secure agents - https://cloudonair.withgoogle.com/events/cts-agentic-ai-jul-26/watch?talk=t7-d1-eng 
+5. Govern your agents: Architecting a secure agentic ecosystem 20 Minutes Edwin Raja https://cloudonair.withgoogle.com/events/cts-agentic-ai-jul-26/watch?talk=t9-d1-eng 
